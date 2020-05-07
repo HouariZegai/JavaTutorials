@@ -1,6 +1,7 @@
 # Hands-on JDBC
 ## (Working effectively with Database in Java)
-**Organized by:** GDG BBA (Google Developer Group)
+**Organized by:** GDG BBA (Google Developer Group)  
+**Date & Time:** 6 May 2020, from 10:30 PM to 12:30 AM (2 Hours)
 
 ### Description
 We learned how to manage MySQL Database using Java by implementing the CRUD operations (Create, Read, Update, Delete) to the Database
